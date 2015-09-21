@@ -2,6 +2,8 @@ background(255);
 size (500,500);
 colorMode (HSB,100);
 noStroke();
+smooth();
+
 int y=480;
 int x=20;
 
